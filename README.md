@@ -14,11 +14,6 @@
 - **Tools:** Git, GitHub, VS Code, Visual Studio, IntelliJ IDEA, Excel
 - **Others:** MIDI programming, SAP/Excel VBA scripting
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kwakczuszka&show_icons=true&theme=tokyonight" alt="kwakczuszka's GitHub stats" />
-</p>
-
 ## 🎯 Currently Working On
 - 🎶 AI-based VST plugin for Ableton Live (engineering thesis)
 - 🛠️ Automation tools for everyday tasks
