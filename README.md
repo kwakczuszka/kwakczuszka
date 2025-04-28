@@ -25,10 +25,11 @@
 
 ---
 
-> “The cake is a lie.” — *Portal*
+> “The cake is a lie.” 
 <div align="center">
-  <img src="https://media.tenor.com/2Q1wYzZ6F3sAAAAC/aperture-science-portal-cake.gif" width="300" alt="Portal Cake">
+  <img src="https://cdn.dribbble.com/userupload/25363964/file/original-8b7a895e93ef3f26999219ef0869934a.gif" width="300" alt="Portal Cake - The Cake is a Lie">
 </div>
+
 
 
 ---
