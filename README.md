@@ -27,7 +27,7 @@
 
 > “The cake is a lie.” — *Portal*
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKUMG6vJz5E3b6Q/giphy.gif" width="300" alt="Portal Cake">
+  <img src="[https://media.giphy.com/media/3o7TKUMG6vJz5E3b6Q/giphy.gif" width="300" alt="Portal Cake](https://media.tenor.com/2Q1wYzZ6F3sAAAAC/aperture-science-portal-cake.gif" width="300" alt="Portal Cake)">
 </div>
 
 ---
