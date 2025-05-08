@@ -8,7 +8,7 @@
 - 🎓 Computer Science student, graduating soon (Feb/2026)!
  
 ## 🛠️ Tech Stack
-- **Languages:** Python, Java, C++, C# (basics)
+- **Languages:** Python, Java, C++ (favourite), C# (basics)
 - **Frameworks/Libraries:** Spring Boot, JUCE, ONNX, JavaFX
 - **Databases:** Oracle, MySQL
 - **Tools:** Git, GitHub, VS Code, Visual Studio, IntelliJ IDEA, Excel
