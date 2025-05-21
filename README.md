@@ -4,18 +4,18 @@
 - 🎯 Passionate about automation, backend development, and smart solutions.
 - 💻 Mostly working with **Python**, **Java**, and **C++**.
 - 🚀 Interested in **AI**, **automation**, and **software development**.
-- 🌱 Currently expanding my skills in **C++**, **Java**, and **JUCE** framework.
+- 🌱 Currently expanding my skills in **C++** and **Java**.
 - 🎓 Computer Science student, graduating soon (Feb/2026)!
  
 ## 🛠️ Tech Stack
 - **Languages:** Python, Java, C++ (favourite), C# (basics)
-- **Frameworks/Libraries:** Spring Boot, JUCE, ONNX, JavaFX
+- **Frameworks/Libraries:** Spring Boot, JavaFX, pyTorch, SDL
 - **Databases:** Oracle, MySQL
 - **Tools:** Git, GitHub, VS Code, Visual Studio, IntelliJ IDEA, Excel
 - **Others:** MIDI programming, SAP/Excel VBA scripting
 
 ## 🎯 Currently Working On
-- 🎶 AI-based VST plugin for Ableton Live (engineering thesis)
+- 🎶 MIDI organ pedalboard (engineering thesis)
 - 🛠️ Automation tools for everyday tasks
 - 📚 Preparing for advanced Java and C++ interviews
 
