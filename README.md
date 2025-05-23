@@ -17,7 +17,7 @@
 ## 🎯 Currently Working On
 - 🎶 MIDI organ pedalboard (engineering thesis)
 - 🛠️ Automation tools for everyday tasks
-- 📚 Preparing for advanced Java and C++ interviews
+- 📚 Preparing for Java and C++ interviews
 
 ## 📫 How to Reach Me
 - ✉️ Email: [kkr098wot@gmail.com](mailto:kkr098wot@gmail.com)
